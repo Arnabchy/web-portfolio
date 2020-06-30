@@ -24,6 +24,7 @@ p{
     width: 100%;
                 }
 .top-banner{
+    overflow: hidden;
     background-image: url("top-banner.png");
     background-repeat: no-repeat;
             }
