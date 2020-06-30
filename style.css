@@ -24,7 +24,7 @@ p{
     width: 100%;
                 }
 .top-banner{
-    background-image: url("images/top-banner.png");
+    background-image: url("top-banner.png");
     background-repeat: no-repeat;
             }
 section{
@@ -40,7 +40,7 @@ section{
     font-weight: 700;
         }
 .dream-area{
-    background-image: url("images/dream-area.png");
+    background-image: url("dream-area.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -51,7 +51,6 @@ section{
     height: 80%;
 }
 .experience-area{
-    background-image: url("background/images 17.png");
     background-repeat: no-repeat;
     background-position: left;
 }
