@@ -4,13 +4,14 @@ body {
     font-size: 12pt;
         }
 h1{
-    font-size: 60pt;
+    font-size: 40pt;
     font-family: 'Roboto Slab', serif;
     }
 p{
     text-align: justify;
     color: gray;
-    }
+    margin-right: 35px;
+}
 .orange-highlight{
     color:Orange;
                 }
