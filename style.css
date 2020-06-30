@@ -11,6 +11,7 @@ p{
     text-align: justify;
     color: gray;
     margin-right: 35px;
+    height: auto;
 }
 .orange-highlight{
     color:Orange;
